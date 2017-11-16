@@ -17,3 +17,4 @@
 /tmp
 /spring/*.pid
 /vendor/bundle
+public/uploads/
